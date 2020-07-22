@@ -1,0 +1,97 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 2 (0x2)
+    Signature Algorithm: sha256WithRSAEncryption
+        Issuer: C=DE, ST=NRW, L=Duesseldorf, O=WIR-MACHEN-DAS, CN=VPN-Server1-Debian/name=VPN-Server1/emailAddress=noc@wir-machen-d.as
+        Validity
+            Not Before: May 20 11:18:46 2015 GMT
+            Not After : May 17 11:18:46 2025 GMT
+        Subject: C=DE, ST=NRW, L=Duesseldorf, O=WIR-MACHEN-DAS, CN=client1/name=client1/emailAddress=noc@wir-machen-d.as
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:dc:34:a1:df:70:6b:dd:de:7e:32:13:0a:38:bd:
+                    e6:f9:ed:dd:a4:23:4f:ca:2c:ad:49:a2:fb:5c:84:
+                    4b:b2:16:1d:d9:19:7b:88:0f:9f:3e:55:1c:b9:c9:
+                    c2:be:88:36:ac:c6:a1:4b:42:9b:7a:7c:b7:53:0e:
+                    d7:88:f5:57:f3:ab:ae:12:22:02:83:32:27:08:3a:
+                    50:51:03:f5:54:67:c2:45:0f:a5:42:d3:23:6b:13:
+                    01:8e:42:ad:c4:9c:ae:6f:25:0b:1b:86:d7:09:d6:
+                    32:2f:e3:73:ba:54:b9:f0:6a:c6:eb:ff:2a:5b:57:
+                    2e:d0:94:c5:1d:e9:4b:c3:c3:83:12:74:a3:fb:34:
+                    7b:04:37:de:53:6d:0e:c8:0a:a2:ea:39:84:1f:b5:
+                    11:39:29:ea:83:2e:57:95:56:4f:45:e4:5b:0a:82:
+                    2c:f7:f7:b0:6b:c0:91:79:ae:a7:66:75:c5:12:c5:
+                    dc:a2:14:89:4a:94:29:a5:cb:f4:f4:77:7b:a3:aa:
+                    c0:69:ea:93:2c:6e:e4:f1:c5:d7:73:08:00:12:51:
+                    bf:b9:4a:cd:b3:9e:c7:f7:f8:f1:3c:68:6b:d4:53:
+                    f2:e0:6e:c3:43:dc:25:c8:35:ff:8f:fc:06:66:ff:
+                    1b:65:eb:91:7b:70:02:11:67:58:7c:ce:ba:e9:5f:
+                    db:2d
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                4D:50:68:00:FF:22:DB:83:2B:3B:32:0F:74:D4:98:D7:13:11:24:45
+            X509v3 Authority Key Identifier: 
+                keyid:C8:A7:C9:33:61:E3:BA:E4:DA:74:09:9C:81:E4:DD:6A:2F:03:BA:91
+                DirName:/C=DE/ST=NRW/L=Duesseldorf/O=WIR-MACHEN-DAS/CN=VPN-Server1-Debian/name=VPN-Server1/emailAddress=noc@wir-machen-d.as
+                serial:AB:BB:F6:1C:96:DF:B3:E2
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+            X509v3 Subject Alternative Name: 
+                DNS:client1
+    Signature Algorithm: sha256WithRSAEncryption
+         6a:24:34:4f:df:1f:35:85:02:db:fb:d6:d5:95:16:f4:70:eb:
+         2a:01:99:26:24:ce:ba:ec:56:c1:4b:cb:b6:da:1a:92:c1:12:
+         01:36:6e:0a:da:54:20:8c:16:94:23:c8:c3:6e:cf:bc:c5:d6:
+         b0:7f:cc:bf:20:4b:5d:54:06:9e:4a:7c:d8:dd:42:b6:be:55:
+         86:aa:9a:2f:e9:0e:bf:8c:da:6e:28:96:07:2b:5d:14:00:ec:
+         c0:e9:a1:9e:d8:73:ae:67:e8:9f:0f:bd:56:dd:af:4a:3f:6b:
+         52:af:79:ba:2c:ac:bf:54:8e:32:cb:b2:5e:12:8b:cd:be:94:
+         77:0b:4e:88:ca:06:16:61:ee:bb:3a:1b:89:92:3f:21:bb:ab:
+         96:69:a5:ff:41:8f:ae:ba:7d:4d:b9:d1:95:40:33:4c:fc:6a:
+         51:21:db:f8:70:c9:71:c6:be:4b:48:19:bd:60:02:2f:5e:75:
+         76:96:87:b9:a6:6d:c8:39:cf:c0:e3:f3:28:38:26:89:b1:9d:
+         3c:d7:dd:9c:d9:08:89:5b:b0:9c:7e:f8:df:2e:eb:af:1e:51:
+         d6:94:d2:1f:52:10:91:32:9b:af:48:ee:ca:87:3e:46:a7:c6:
+         9a:44:e0:33:a2:b9:2f:0e:7d:59:f3:46:4a:c0:5a:79:32:74:
+         4c:e4:05:81
+-----BEGIN CERTIFICATE-----
+MIIFHjCCBAagAwIBAgIBAjANBgkqhkiG9w0BAQsFADCBoTELMAkGA1UEBhMCREUx
+DDAKBgNVBAgTA05SVzEUMBIGA1UEBxMLRHVlc3NlbGRvcmYxFzAVBgNVBAoTDldJ
+Ui1NQUNIRU4tREFTMRswGQYDVQQDExJWUE4tU2VydmVyMS1EZWJpYW4xFDASBgNV
+BCkTC1ZQTi1TZXJ2ZXIxMSIwIAYJKoZIhvcNAQkBFhNub2NAd2lyLW1hY2hlbi1k
+LmFzMB4XDTE1MDUyMDExMTg0NloXDTI1MDUxNzExMTg0NlowgZIxCzAJBgNVBAYT
+AkRFMQwwCgYDVQQIEwNOUlcxFDASBgNVBAcTC0R1ZXNzZWxkb3JmMRcwFQYDVQQK
+Ew5XSVItTUFDSEVOLURBUzEQMA4GA1UEAxMHY2xpZW50MTEQMA4GA1UEKRMHY2xp
+ZW50MTEiMCAGCSqGSIb3DQEJARYTbm9jQHdpci1tYWNoZW4tZC5hczCCASIwDQYJ
+KoZIhvcNAQEBBQADggEPADCCAQoCggEBANw0od9wa93efjITCji95vnt3aQjT8os
+rUmi+1yES7IWHdkZe4gPnz5VHLnJwr6INqzGoUtCm3p8t1MO14j1V/OrrhIiAoMy
+Jwg6UFED9VRnwkUPpULTI2sTAY5CrcScrm8lCxuG1wnWMi/jc7pUufBqxuv/KltX
+LtCUxR3pS8PDgxJ0o/s0ewQ33lNtDsgKouo5hB+1ETkp6oMuV5VWT0XkWwqCLPf3
+sGvAkXmup2Z1xRLF3KIUiUqUKaXL9PR3e6OqwGnqkyxu5PHF13MIABJRv7lKzbOe
+x/f48Txoa9RT8uBuw0PcJcg1/4/8Bmb/G2XrkXtwAhFnWHzOuulf2y0CAwEAAaOC
+AWwwggFoMAkGA1UdEwQCMAAwLQYJYIZIAYb4QgENBCAWHkVhc3ktUlNBIEdlbmVy
+YXRlZCBDZXJ0aWZpY2F0ZTAdBgNVHQ4EFgQUTVBoAP8i24MrOzIPdNSY1xMRJEUw
+gdYGA1UdIwSBzjCBy4AUyKfJM2HjuuTadAmcgeTdai8DupGhgaekgaQwgaExCzAJ
+BgNVBAYTAkRFMQwwCgYDVQQIEwNOUlcxFDASBgNVBAcTC0R1ZXNzZWxkb3JmMRcw
+FQYDVQQKEw5XSVItTUFDSEVOLURBUzEbMBkGA1UEAxMSVlBOLVNlcnZlcjEtRGVi
+aWFuMRQwEgYDVQQpEwtWUE4tU2VydmVyMTEiMCAGCSqGSIb3DQEJARYTbm9jQHdp
+ci1tYWNoZW4tZC5hc4IJAKu79hyW37PiMBMGA1UdJQQMMAoGCCsGAQUFBwMCMAsG
+A1UdDwQEAwIHgDASBgNVHREECzAJggdjbGllbnQxMA0GCSqGSIb3DQEBCwUAA4IB
+AQBqJDRP3x81hQLb+9bVlRb0cOsqAZkmJM667FbBS8u22hqSwRIBNm4K2lQgjBaU
+I8jDbs+8xdawf8y/IEtdVAaeSnzY3UK2vlWGqpov6Q6/jNpuKJYHK10UAOzA6aGe
+2HOuZ+ifD71W3a9KP2tSr3m6LKy/VI4yy7JeEovNvpR3C06IygYWYe67OhuJkj8h
+u6uWaaX/QY+uun1NudGVQDNM/GpRIdv4cMlxxr5LSBm9YAIvXnV2loe5pm3IOc/A
+4/MoOCaJsZ08192c2QiJW7CcfvjfLuuvHlHWlNIfUhCRMpuvSO7Khz5Gp8aaROAz
+orkvDn1Z80ZKwFp5MnRM5AWB
+-----END CERTIFICATE-----
